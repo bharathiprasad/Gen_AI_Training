@@ -1,0 +1,6 @@
+{
+  "qa": "Based on the document below, answer this question: {question}\n\nDocument:\n{document}\n\nAnswer:",
+  "summary": "Summarize this document:\n\n{document}\n\nSummary:",
+  "explain": "Explain this concept from the document: {question}\n\nDocument:\n{document}\n\nExplanation:",
+  "custom": "Your custom prompt template with {document} and {question}"
+}

@@ -1,0 +1,17 @@
+Artificial Intelligence and Machine Learning
+
+Artificial Intelligence (AI) is a broad field of computer science focused on creating 
+systems that can perform tasks that typically require human intelligence. These tasks 
+include learning, reasoning, problem-solving, perception, and language understanding.
+
+Machine Learning (ML) is a subset of AI that focuses on developing algorithms that can 
+learn and improve from data without being explicitly programmed. ML algorithms build 
+mathematical models based on training data to make predictions or decisions.
+
+There are three main types of machine learning:
+1. Supervised Learning - Uses labeled training data
+2. Unsupervised Learning - Finds patterns in unlabeled data  
+3. Reinforcement Learning - Learns through interaction with environment
+
+Deep Learning is a subset of ML that uses neural networks with multiple layers to 
+model and understand complex patterns in data.
