@@ -1,0 +1,20 @@
+Hello Team,
+
+I wanted to share some important information about how we work together to keep things running smoothly.
+
+We follow agile practices, which means we have daily stand-up meetings every morning at 9 AM to sync up on progress and blockers.
+
+All code changes go through mandatory reviews to maintain quality, and we use Git with feature branches to manage our work.
+
+Communication is mostly through Slack and email, so please keep an eye on those channels.
+
+New team members get a two-week onboarding to get up to speed with our tools and processes.
+
+We prioritize tasks based on urgency and importance, and we keep our documentation updated in Confluence.
+
+Security is a top priority, so we regularly scan our code and follow best practices.
+
+If you have any questions or suggestions, feel free to reach out!
+
+Best,
+Project Manager

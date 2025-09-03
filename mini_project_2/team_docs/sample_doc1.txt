@@ -1,0 +1,12 @@
+Hey Team,
+
+Just wanted to give you a quick update on our latest project. We're building this cool knowledge base assistant using ChromaDB and Ollama. It's basically a tool that can ingest documents from different formats like text files, PDFs, and Word docs, then break them down into smaller chunks and create embeddings for smart search.
+
+The main idea is to have a local system that doesn't rely on any cloud services, so we keep everything private and secure. It uses semantic search to find relevant info and then generates responses using local AI models.
+
+Our team is made up of developers, designers, and project managers working together on this. We're using Python as the main language, along with ChromaDB for the vector database, Ollama for the AI models, and some other libraries to tie it all together.
+
+I think this could be really useful for our internal knowledge management. Let me know if you have any questions or ideas!
+
+Best,
+Project Lead
