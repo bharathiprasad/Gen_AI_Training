@@ -22,26 +22,28 @@ A powerful research agent that combines Ollama/Llama 3 with web search capabilit
 ### Installation
 
 1. **Install Ollama and Llama 3**
-  
+   ```
    # Pull Llama 3 model
+   
    ollama pull llama3
    
    # Start Ollama server
    ollama serve
    ```
 
-2. **Install Requirements**
+3. **Install Requirements**
 
    # Install dependencies
+   ```
    pip install gradio requests aiohttp
    ```
 
-3. **Run the Application**
+4. **Run the Application**
    ```bash
    python research_agent.py
    ```
 
-4. **Access the Interface**
+5. **Access the Interface**
    - Open your browser to `http://localhost:7860`
    - Enter your research query and start researching!
 
