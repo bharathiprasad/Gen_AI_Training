@@ -34,7 +34,7 @@ A powerful research agent that combines Ollama/Llama 3 with web search capabilit
 
 3. **Install Requirements**
 
-   # Install dependencies
+   ### Install dependencies
    ```
    pip install gradio requests aiohttp
    ```
