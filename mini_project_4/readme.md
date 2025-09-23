@@ -22,12 +22,13 @@ A powerful research agent that combines Ollama/Llama 3 with web search capabilit
 ### Installation
 
 1. **Install Ollama and Llama 3**
+   
+   ### Pull Llama 3 model
    ```
-   # Pull Llama 3 model
-   
    ollama pull llama3
-   
-   # Start Ollama server
+   ```
+   ### Start Ollama server
+   ```
    ollama serve
    ```
 
@@ -155,11 +156,3 @@ ollama serve
 - Timeouts are set to 120 seconds
 - Try shorter, more specific queries
 
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-**Star this repo if you find it useful!**
