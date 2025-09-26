@@ -78,45 +78,12 @@ For best results, configure Google Custom Search API:
 - **Free Tier**: 100 searches/day
 - **Paid**: $5 per 1,000 additional searches
 
-##  Usage
-
-### Example Queries
-
-```
-Climate change effects on agriculture
-Artificial intelligence in healthcare  
-Renewable energy trends 2024
-Quantum computing applications
-Cryptocurrency market analysis
-```
-
 ### Research Process
 
 1. **Planning**: Agent breaks your query into 3-5 research tasks
 2. **Searching**: Executes web searches for each task
 3. **Analysis**: Uses Llama 3 to synthesize findings
 4. **Output**: Generates structured brief with executive summary
-
-### Sample Output
-
-```
-Research Brief: Renewable energy trends
-Generated: 2024-01-20 15:30:45
-
-EXECUTIVE SUMMARY
-[AI-generated summary of key findings]
-
-RESEARCH TASKS EXECUTED
-1. General renewable energy market overview
-2. Recent technology developments
-3. Policy and regulatory changes
-
-KEY FINDINGS
-[Detailed findings for each research task]
-
-REFERENCES
-[Web sources and citations]
-```
 
 ## Architecture
 
